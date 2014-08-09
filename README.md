@@ -3,4 +3,4 @@ fabric-examples
 
 Repository contains examples when using fabric
 
-Example with fabric and blueprint properties
+1. Example with fabric and blueprint properties
