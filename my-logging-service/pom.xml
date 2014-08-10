@@ -45,6 +45,7 @@
         <fabric8.profile>my-logging-service-profile</fabric8.profile>
         <fabric8.parentProfiles>fabric feature-camel</fabric8.parentProfiles>
         <fabric8.features>camel-blueprint</fabric8.features>
+        <fabric8.minInstanceCount>0</fabric8.minInstanceCount>
     </properties>
 
     <licenses>

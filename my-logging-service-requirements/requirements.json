@@ -1,0 +1,24 @@
+{
+    "profileRequirements": [
+        {
+            "minimumInstances": 1,
+            "profile": "my-logging-service-profile",
+            "sshScalingRequirements": {
+                "hostTags": [
+                    "esb"
+                ]
+            }
+        }
+    ],
+    "sshConfiguration": {
+        "defaultPath": "/opt/fabric8",
+        "defaultUsername": "root",
+        "defaultPassword": "vagrant",
+        "hosts": [
+            {
+                "hostName": "integration1",
+                "tags": ["esb"]
+            }
+        ]
+    }
+}

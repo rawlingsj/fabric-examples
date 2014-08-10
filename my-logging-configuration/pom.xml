@@ -16,6 +16,7 @@
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		<fabric.version>1.1.0.CR5</fabric.version>
 		<fabric8.profile>my-logging-service-profile</fabric8.profile>
+		<fabric8.minInstanceCount>0</fabric8.minInstanceCount>
 	</properties>
 
 	<build>
