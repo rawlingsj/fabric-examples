@@ -3,4 +3,4 @@ fabric-examples
 
 Repository contains examples when using fabric
 
-1. An example with fabric and blueprint properties and use in a CD process
+An example with fabric and blueprint properties and use in a CD process
